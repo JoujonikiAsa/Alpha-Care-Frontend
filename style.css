@@ -12,7 +12,7 @@ body {
     display : flex;
     align-items : center;
     justify-content: space-between;
-    background:linear-gradient(10deg,#5ac8fa 20%, #ff6464 40%);
+    background: linear-gradient(70deg,#5ac8fa 40%, #ff6464 40% );
     color: white;
     padding-left: 50px;
     padding-right: 50px;
